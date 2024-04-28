@@ -1,0 +1,13 @@
+REM Minimise all windows
+GUI d
+
+REM Open notepad
+GUI r
+DELAY 100
+STRING notepad
+ENTER
+DELAY 100
+
+REM Display the message
+STRING I ate your cookies!!!
+ENTER
