@@ -12,8 +12,8 @@ Should you want to use the scripts, you will either have to compile them to a `.
 Before proceeding any further, I would recommend learning about the [Ducky Syntax](https://docs.hak5.org/hak5-usb-rubber-ducky).
 # Script Functionalities
 Finally, the fun parts:
-- [disable_defender]() : disables Defender' real-time protection
-- [disable_user_account_control]() : disable user notifications for modifications applied to the computer
-- [i_ate_your_cookies]() : a simple example that opens notepad and writes some text
-- [enable_bluetooth]() : as the name suggests, it enable Bluetooth
-- [rickroll]() : opens a browser to a specific link
+- [disable_defender](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/disable_defender.txt) : disables Defender' real-time protection
+- [disable_user_account_control](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/disable_user_account_control.txt) : disable user notifications for modifications applied to the computer
+- [i_ate_your_cookies](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/enable_bluetooth.txt) : a simple example that opens notepad and writes some text
+- [enable_bluetooth](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/i_ate_your_cookies.txt) : as the name suggests, it enable Bluetooth
+- [rickroll](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/rickroll.txt) : opens a browser to a specific link
