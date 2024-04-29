@@ -1,5 +1,0 @@
-REM Open link
-GUI r
-DELAY 100
-STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
-ENTER
