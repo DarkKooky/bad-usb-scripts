@@ -16,5 +16,5 @@ Finally, the fun parts:
 - [disable_user_account_control](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/disable_user_account_control.txt) : disable user notifications for modifications applied to the computer
 - [i_ate_your_cookies](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/enable_bluetooth.txt) : a simple example that opens notepad and writes some text
 - [enable_bluetooth](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/i_ate_your_cookies.txt) : as the name suggests, it enable Bluetooth
-- [rickroll](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/rickroll.txt) : opens a browser to a specific link[
+- [rickroll](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/rickroll.txt) : opens a browser to a specific link
 - [wifi_exfiltration](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/wifi_exfiltration.txt) : retrieves all stored network profiles
