@@ -1,5 +1,5 @@
 # Disclaimer
-Everything in this repository should **ONLY** be used for educational and training purposes. The scripts **are not** intended to be used "in the field". As a reminder, all offenses against the confidentiality, integrity and availability of computer data and systems, including illegal access, is a crime.
+Everything in this repository should **ONLY** be used for educational and training purposes. The scripts **ARE NOT** intended to be used "in the field". As a reminder, all offenses against the confidentiality, integrity and availability of computer data and systems, including illegal access, is a crime.
 # Hotplug Attacks
 >As technology continues to advance, one persistant problem remains: the vulnerability of humans to cyber-attacks.
 
