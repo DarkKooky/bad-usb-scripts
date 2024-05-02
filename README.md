@@ -5,7 +5,7 @@ Everything in this repository should **ONLY** be used for educational and traini
 
 While most envision hackers as masterminds using intricate techniques and methods, the reality is that most successful attacks are a result of exploiting human error (layer 8 vulnerability). Hotplugs are devices hidden in the packaging of common peripherals:
 - Most commonly, an abandoned USB, such as the [Rubber Ducky](https://shop.hak5.org/products/usb-rubber-ducky)
-- Or a lent phone charger
+- A lent phone charger
 
 # Script Usage
 These scripts have only been tested on Windows machines. Reading the [Ducky Syntax](https://docs.hak5.org/hak5-usb-rubber-ducky) documentation will grant you some understanding of the scripts and how to convert them to other systems. Do note, that depending on the hardware, the `DELAY`s may have to be tweaked for slower hosts.
