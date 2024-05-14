@@ -17,7 +17,7 @@ Finally, the fun part!
 | :------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------- |
 | [disable_defender](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/disable_defender.txt)                         | Disables Defender' real-time protection                              |
 | [disable_user_account_control](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/disable_user_account_control.txt) | Disable user notifications for modifications applied to the computer |
-| [i_ate_your_cookies](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/enable_bluetooth.txt)                       | A simple example that opens notepad and writes some text             |
 | [enable_bluetooth](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/i_ate_your_cookies.txt)                       | As the name suggests, it enable Bluetooth                            |
+| [i_ate_your_cookies](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/enable_bluetooth.txt)                       | A simple example that opens notepad and writes some text             |
 | [rickroll](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/rickroll.txt)                                         | Opens a browser to a specific link                                   |
 | [wifi_exfiltration](https://github.com/DarkKooky/Bad-USB-Scripts/blob/main/Scripts/wifi_exfiltration.txt)                       | Retrieves all stored network profiles                                |
